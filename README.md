@@ -1,1 +1,1 @@
-KUN.UZ_Clone ga views.py ni yozdim 2-kun
+KUN.UZ_Clone ga admin.py ni yozdim 3-kun
